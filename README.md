@@ -72,7 +72,7 @@ To use MyShell on your system, follow these steps:
 
 ## Author
 
-- **OSLab-2 Group 10**
+- **OSLab-2 Group 10 CRN 74026**
 - **Rushi Rathod - 100826456**
 - **Shivam Patel - 100839218**
 - **Hetvi Vaghela - 100847993**
